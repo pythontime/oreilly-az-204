@@ -7,7 +7,7 @@ namespace ServiceBusDemo
 {
     class Program
     {
-        static string connectionString = "Endpoint=sb://sbordemo204.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=8HN/jJaZFKqxc2bFXx3TcgVRMxwXM1IU9/RH0NyRSvk=";
+        static string connectionString = "SERVICE BUS CONNECTION STRING HERE";
         static string queueName = "sbOrders";
 
         /// <summary>
